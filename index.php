@@ -1,6 +1,3 @@
-<?php
-
-
-echo "This is OpenCRM";
-
-?>
+<div>
+	<?php echo "This is OpenCrm"; ?>
+</div>
